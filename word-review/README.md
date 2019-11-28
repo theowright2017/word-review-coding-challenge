@@ -1,3 +1,9 @@
+To run, please clone the repo and run:
+  npm install - to install required dependencies
+  npm start   - to run project in your local server 
+
+
+
 Coding Challenge Create a Word cloud 
 
 # Introduction:
